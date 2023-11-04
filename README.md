@@ -6,3 +6,7 @@ A port scanner is a software tool used to scan a computer or network for open ne
 <li>Security Assessment: By scanning for open ports, security professionals can assess the security posture of a network or system and identify potential weaknesses that need to be addressed.
 
 <li>Firewall Configuration: Port scanners can help administrators verify that their firewall rules are properly configured to allow or block specific types of traffic.
+
+<li>Network Mapping: Port scans can be used to create network maps that show which services are running on which devices, helping with network management and troubleshooting.
+
+<li>Intrusion Detection: Port scanning can be an indicator of malicious activity or unauthorized attempts to access a network. Intrusion detection systems often use port scanning as a signature of an attack.
