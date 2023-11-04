@@ -29,4 +29,3 @@ The "Scan" button triggers the port scanning process. When clicked, the applicat
 ### Results Display
 
 The results of the port scan are displayed in the textarea below the IP address textbox and button. The open ports discovered during the scan are listed here, making it easy for users to review the results.
-
